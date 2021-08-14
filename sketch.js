@@ -88,7 +88,7 @@ function draw() {
   if(fedtime == lastfed + 2){
     bedroom()
   }
-  if(fettime == lastfed + 3||fedtime == lastfed + 4){
+  if(fedtime == lastfed + 3||fedtime == lastfed + 4){
     washroom()
   }
   if(gameState!="something"){
