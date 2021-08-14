@@ -40,7 +40,7 @@ function preload()
   milkimage = loadImage("Milk.png")
   gardenimage = loadImage("images/dog garden image.jpeg")
   bedroomimage = loadImage("images/dog bedroom image.jpeg")
-  washroomimage = loadImage("images/dog washroom image.jpeg")
+  washroomimage = loadImage("images/dog bathroom image.jpeg")
 }
 
 function setup() {
