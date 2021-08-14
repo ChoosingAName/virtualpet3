@@ -28,6 +28,7 @@ var hungry
 var fed
 var gardenimage
 var bedroomimage
+var washroomimage
 var gameState
 var gameStateS = 0
 var something = 0
