@@ -91,14 +91,6 @@ function draw() {
   if(fedtime == lastfed + 3||fedtime == lastfed + 4){
     washroom()
   }
-  if(gameState!="something"){
-    feedthedogbutton.hide()
-    addmorefoodbutton.hide()
-    dog.remove()
-  }else{
-     feedthedogbuton.show()
-     addmorefoodbutton.show()
-  }
 
   //add styles here
 }
